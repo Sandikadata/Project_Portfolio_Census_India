@@ -13,6 +13,7 @@ Ranking & Performance Analysis: Grouping and ordering states by average literacy
 Multi-Table Joins (JOIN): Combining population and literacy data to derive gender-wise population distributions and literate/illiterate population counts per state.
 Advanced SQL constructs:Creating Views and Temporary Tables for top/bottom state literacy rankings.Utilizing Window Functions (ROW_NUMBER() / RANK()) to determine the top 3 districts by literacy rate within each state.Applying UNION operators and pattern-matching filters for complex multi-condition extractions.
 Comparative Metrics: Contrasting population sizes against geographical area data.
+
 📂 Repository StructurePlaintext.
 ├── data/
 │   ├── raw/                  # Original raw datasets (Census_Literacy.csv, Census_Population.csv)
@@ -25,7 +26,9 @@ Comparative Metrics: Contrasting population sizes against geographical area data
 │   └── 01_population_eda.ipynb   # Exploratory data analysis & visualization pipeline
 ├── README.md                 # Project documentation & summary report
 └── requirements.txt          # Python dependencies for pipeline and notebook execution
-🚀 Quickstart Guide1. Clone the RepositoryBashgit clone https://github.com/your-username/india-census-analysis.git
+
+🚀 Quickstart Guide
+1. Clone the RepositoryBashgit clone https://github.com/your-username/india-census-analysis.git
 cd india-census-analysis
 2. Set Up the PostgreSQL DatabaseExecute the SQL scripts inside your PostgreSQL environment to set up tables and execute demographic queries:Bashpsql -U your_username -d census_db -f sql/03_advanced_analytics.sql
 3. Install Python Dependencies (for Notebooks)Bashpip install -r requirements.txt
