@@ -1,0 +1,63 @@
+avg_growth,population,district,state,growth,sex_ratio,literacy,state,avg_growth,sum,sum-2,state,total_males,toatal_females
+19.265625,1210854977,Patna,Bihar,0.24,897,70.68,Uttarakhand,13.15384615,2012055640,2368922068,Uttarakhand,6199265,1309330
+,,Purbi Champaran,Bihar,0.29,902,55.79,Rajasthan,21.18181818,,,Rajasthan,71757578,0
+,,Muzaffarpur,Bihar,0.28,900,63.43,Jharkhand,23.75,,,Jharkhand,31171909,751169
+,,Madhubani,Bihar,0.26,926,58.62,Maharashtra,13.88571429,,,Maharashtra,112090618,1232359
+,,Gaya,Bihar,0.26,937,63.67,Lakshadweep,6,,,Lakshadweep,64473,0
+,,Samastipur,Bihar,0.26,911,61.86,Bihar,25.21052632,,,Bihar,101420357,1281006
+,,Saran,Bihar,0.22,954,65.96,Gujarat,17.11538462,,,Gujarat,55404173,517656
+,,Darbhanga,Bihar,0.19,911,56.56,Punjab,13.55,,,Punjab,26748710,0
+,,Pashchim Champaran,Bihar,0.29,909,55.7,Puducherry,34.25,,,Puducherry,623976,623976
+,,Vaishali,Bihar,0.29,895,66.6,Himachal Pradesh,11.41666667,,,Himachal Pradesh,8566498,2034451
+,,Sitamarhi,Bihar,0.28,899,52.05,Nagaland,82.27272727,,,Nagaland,1978502,0
+,,Siwan,Bihar,0.23,988,69.45,Karnataka,11.86666667,,,Karnataka,57018163,4332359
+,,Purnia,Bihar,0.28,921,51.08,Kerala,4.142857143,,,Kerala,16703027,16703027
+,,Katihar,Bihar,0.28,919,52.24,Delhi,14,,,Delhi,142004,0
+,,Bhagalpur,Bihar,0.25,880,63.14,Daman and Diu,43,,,Daman and Diu,217210,26037
+,,Begusarai,Bihar,0.26,895,63.87,Assam,16.48148148,,,Assam,31205576,0
+,,Rohtas,Bihar,0.21,918,73.37,West Bengal,14.15789474,,,West Bengal,91276115,0
+,,Nalanda,Bihar,0.21,922,64.43,Mizoram,24.5,,,Mizoram,897051,200154
+,,Araria,Bihar,0.3,921,53.53,Dadra and Nagar Haveli,56,,,Andhra Pradesh,66989042,17591730
+,,Bhojpur,Bihar,0.22,907,70.47,Andhra Pradesh,10.86956522,,,Haryana,25351462,0
+,,Gopalganj,Bihar,0.19,1021,65.47,Haryana,20.57142857,,,Madhya Pradesh,65586263,2095062
+,,Aurangabad,Bihar,0.26,926,70.32,Madhya Pradesh,20.28,,,Tripura,3673917,0
+,,Supaul,Bihar,0.29,929,57.67,Tripura,16.75,,,Tamil Nadu,57086624,15060398
+,,Nawada,Bihar,0.23,939,59.76,Tamil Nadu,14.6875,,,Andaman And Nicobar Islands,274984,0
+,,Banka,Bihar,0.26,907,58.17,Sikkim,11.5,,,Chhattisgarh,24360212,2817266
+,,Madhepura,Bihar,0.31,911,52.25,Andaman And Nicobar Islands,0.666666667,,,Jammu and Kashmir,12541302,0
+,,Saharsa,Bihar,0.26,906,53.2,Chhattisgarh,20.05555556,,,Chandigarh,1055450,0
+,,Jamui,Bihar,0.26,922,59.79,Jammu and Kashmir,24.36363636,,,Goa,1458545,0
+,,Buxar,Bihar,0.22,922,70.14,Chandigarh,17,,,Orissa,36154229,5819984
+,,Kishanganj,Bihar,0.3,950,55.46,Goa,8.5,,,Meghalaya,2097526,610523
+,,Khagaria,Bihar,0.3,886,57.92,Orissa,14.23333333,,,Uttar Pradesh,190674944,6104531
+,,Kaimur,Bihar,0.26,920,69.34,Meghalaya,30.42857143,,,Manipur,2157657,698136
+,,Munger,Bihar,0.2,876,70.46,Uttar Pradesh,20.04225352,,,Arunachal Pradesh,1121771,85383
+,,Jehanabad,Bihar,0.22,922,66.8,Manipur,25.66666667,,,,,
+,,Lakhisarai,Bihar,0.25,902,62.42,Arunachal Pradesh,27.9375,,,,,
+,,Arwal,Bihar,0.19,928,67.43,,,,,,,
+,,Sheohar,Bihar,0.27,893,53.78,,,,,,,
+,,Sheikhpura,Bihar,0.21,930,63.86,,,,,,,
+,,Ranchi,Jharkhand,0.24,949,76.06,,,,,,,
+,,Dhanbad,Jharkhand,0.12,909,74.52,,,,,,,
+,,Giridih,Jharkhand,0.28,944,63.14,,,,,,,
+,,Purbi Singhbhum,Jharkhand,0.16,949,75.49,,,,,,,
+,,Bokaro,Jharkhand,0.16,922,72.01,,,,,,,
+,,Palamu,Jharkhand,0.26,928,63.63,,,,,,,
+,,Hazaribagh,Jharkhand,0.21,947,69.75,,,,,,,
+,,Pashchimi Singhbhum,Jharkhand,0.22,1005,58.63,,,,,,,
+,,Deoghar,Jharkhand,0.28,925,64.85,,,,,,,
+,,Garhwa,Jharkhand,0.28,935,60.33,,,,,,,
+,,Dumka,Jharkhand,0.19,977,61.02,,,,,,,
+,,Godda,Jharkhand,0.25,938,56.4,,,,,,,
+,,Sahibganj,Jharkhand,0.24,952,52.04,,,,,,,
+,,Saraikela Kharsawan,Jharkhand,0.25,956,67.7,,,,,,,
+,,Chatra,Jharkhand,0.32,953,60.18,,,,,,,
+,,Gumla,Jharkhand,0.23,993,65.73,,,,,,,
+,,Ramgarh,Jharkhand,0.13,921,73.17,,,,,,,
+,,Pakur,Jharkhand,0.28,989,48.82,,,,,,,
+,,Jamtara,Jharkhand,0.21,954,64.59,,,,,,,
+,,Latehar,Jharkhand,0.3,967,59.51,,,,,,,
+,,Kodarma,Jharkhand,0.43,950,66.84,,,,,,,
+,,Simdega,Jharkhand,0.17,997,67.99,,,,,,,
+,,Khunti,Jharkhand,0.22,997,63.86,,,,,,,
+,,Lohardaga,Jharkhand,0.27,985,67.61,,,,,,,
